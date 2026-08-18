@@ -139,11 +139,11 @@ If you decide to resume development, typical next steps would include:
 </div>
 <br>
 
-<div align="center">
+<!--div align="center">
   <img src="screenshots/templates_new.jpg" width="80%" />
   <div>New templates creation/editing screen.</div>
 </div>
-<br>
+<br-->
 
 <div align="center">
   <img src="screenshots/thumbnails.jpg" width="80%" />
