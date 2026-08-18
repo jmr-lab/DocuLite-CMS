@@ -55,11 +55,11 @@ If you decide to resume development, typical next steps would include:
 </div>
 <br>
 
-<div align="center">
+<!--div align="center">
   <img src="screenshots/doclist.jpg" width="80%" />
   <div>Document list view.</div>
 </div>
-<br>
+<br-->
 
 <div align="center">
   <img src="screenshots/documentum6.jpg" width="80%" />
