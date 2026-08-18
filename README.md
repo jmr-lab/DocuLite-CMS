@@ -31,7 +31,97 @@ If you decide to resume development, typical next steps would include:
 
 ## Screenshots
 
-Screenshots will be added later.
+<div align="center">
+  <img src="screenshots/clipboard.jpg" width="80%" />
+</div>
+
+<div align="center">
+  <img src="screenshots/contextual_menu.jpg" width="80%" />
+</div>
+
+<div align="center">
+  <img src="screenshots/customize.jpg" width="80%" />
+</div>
+
+<div align="center">
+  <img src="screenshots/details.jpg" width="80%" />
+</div>
+
+<div align="center">
+  <img src="screenshots/doclist.jpg" width="80%" />
+</div>
+
+<div align="center">
+  <img src="screenshots/documentum6.jpg" width="80%" />
+</div>
+
+<div align="center">
+  <img src="screenshots/drag.jpg" width="80%" />
+</div>
+
+<div align="center">
+  <img src="screenshots/import.jpg" width="80%" />
+</div>
+
+<div align="center">
+  <img src="screenshots/java.JPG" width="80%" />
+</div>
+
+<div align="center">
+  <img src="screenshots/jmfc-dfc.jpg" width="80%" />
+</div>
+
+<div align="center">
+  <img src="screenshots/lightweight.jpg" width="80%" />
+</div>
+
+<div align="center">
+  <img src="screenshots/logout.jpg" width="80%" />
+</div>
+
+<div align="center">
+  <img src="screenshots/mails.jpg" width="80%" />
+</div>
+
+<div align="center">
+  <img src="screenshots/modal.jpg" width="80%" />
+</div>
+
+<div align="center">
+  <img src="screenshots/multiple_selection.jpg" width="80%" />
+</div>
+
+<div align="center">
+  <img src="screenshots/php.JPG" width="80%" />
+</div>
+
+<div align="center">
+  <img src="screenshots/security.jpg" width="80%" />
+</div>
+
+<div align="center">
+  <img src="screenshots/templates.jpg" width="80%" />
+</div>
+
+<div align="center">
+  <img src="screenshots/templates_new.jpg" width="80%" />
+</div>
+
+<div align="center">
+  <img src="screenshots/thumbnails.jpg" width="80%" />
+</div>
+
+<div align="center">
+  <img src="screenshots/user_access.jpg" width="80%" />
+</div>
+
+<div align="center">
+  <img src="screenshots/user_management.jpg" width="80%" />
+</div>
+
+<div align="center">
+  <img src="screenshots/workflows.jpg" width="80%" />
+</div>
 
 ## License
 
