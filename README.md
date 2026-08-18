@@ -79,11 +79,11 @@ If you decide to resume development, typical next steps would include:
 </div>
 <br>
 
-<div align="center">
+<!--div align="center">
   <img src="screenshots/java.JPG" width="80%" />
   <div>Java-related configuration or screen.</div>
 </div>
-<br>
+<br-->
 
 <div align="center">
   <img src="screenshots/jmfc-dfc.jpg" width="80%" />
@@ -121,11 +121,11 @@ If you decide to resume development, typical next steps would include:
 </div>
 <br>
 
-<div align="center">
+<!--div align="center">
   <img src="screenshots/php.JPG" width="80%" />
   <div>PHP-related configuration or screen.</div>
 </div>
-<br>
+<br-->
 
 <div align="center">
   <img src="screenshots/security.jpg" width="80%" />
